@@ -1,3 +1,5 @@
+[](images/SpektraLogo.png)
+
 Introduction
 ============
 
