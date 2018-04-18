@@ -1,9 +1,9 @@
-[](images/SpektraLogo.png)
+
 
 Introduction
 ============
 
-This document will explain how to set-up Spektra VR on your PC in two different configurations. Spektra was developed by Headbang VR. Josh Simmons is the creative lead and Mark Micchelli is the technical lead. 
+This document will explain how to set-up Spektra VR on your PC in two different configurations. Spektra was developed by Headbang VR. Josh Simmons is the creative lead and Mark Micchelli is the technical lead.[](images/SpektraLogo.png)
 
 Downloading
 ==============================
