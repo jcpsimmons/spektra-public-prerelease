@@ -1,7 +1,12 @@
 Introduction
 ============
 
-This document will explain how to set-up Spektra VR on your PC in two different configurations.
+This document will explain how to set-up Spektra VR on your PC in two different configurations. Spektra was developed by Headbang VR. Josh Simmons is the creative lead and Mark Micchelli is the technical lead.
+
+Downloading
+==============================
+
+The program can be found on this repo's ["Releases" page.](https://github.com/jcpsimmons/spektra-public-prerelease/releases)
 
 Using Spektra VR with PC Audio
 ==============================
